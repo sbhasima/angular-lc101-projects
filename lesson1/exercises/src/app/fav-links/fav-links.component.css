@@ -1,0 +1,17 @@
+div{
+    text-align: center;
+}
+
+p{
+    font-size: 25px;
+    text-decoration: underline;
+    color: green;
+}
+
+ul{
+    list-style-type:none;
+}
+li{
+    font-size:18px;
+    
+}
